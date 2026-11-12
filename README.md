@@ -25,3 +25,5 @@ ________________________________________________________________________________
 
 Translator Modal:
 ![translation page fct](https://user-images.githubusercontent.com/56198316/161396091-521ac06b-af68-4452-9ade-1646e9db5daa.JPG)
+Live demo: https://prashant638.github.io/fictional-character-translator/
+
