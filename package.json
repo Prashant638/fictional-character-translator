@@ -1,0 +1,24 @@
+{
+  "name": "fictional-character-translator",
+  "version": "1.0.0",
+  "description": "Live Link : https://fictional--translator.web.app/index.html",
+  "main": "indexJs.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshashank083/Fictional-Character-Translator.git"
+  },
+  "author": "Shashank Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshashank083/Fictional-Character-Translator/issues"
+  },
+  "homepage": "https://github.com/pshashank083/Fictional-Character-Translator#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
