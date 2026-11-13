@@ -2,6 +2,8 @@
 
 There are many fans of different fictional characters shown in movies like YODA, MINNIONS, GROOT,HODOR etc.
 
+**Live Demo:** [https://prashant638.github.io/fictional-character-translator/](https://prashant638.github.io/fictional-character-translator/)
+
 Through this project you can see and learn how your favourite characters would speak the same sentence as you but in their language.
 
 Tech used in this project are:-
